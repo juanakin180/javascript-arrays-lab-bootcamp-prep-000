@@ -55,7 +55,9 @@ function destructivelyRemoveFirstKitten(element) {
     
     
     
-   array = kittens.slice(2, 1);
+   array = [...kittens];
+   
+   
     
     return array;
     
