@@ -36,7 +36,7 @@ function destructivelyRemoveFirstKitten(element) {
 
   function appendKitten( array, element) {
   
-  array = kittens.concat('f');
+  array = kittens.concat(element);
    
    return kittens;
    
