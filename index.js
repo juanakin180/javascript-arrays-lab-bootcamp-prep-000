@@ -38,7 +38,7 @@ function destructivelyRemoveFirstKitten(element) {
   
   array = kittens.concat(element);
    
-   return kittens;
+   return array;
    
   }
   
