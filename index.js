@@ -62,3 +62,12 @@ function destructivelyRemoveFirstKitten(element) {
     return array;
     
   }
+  
+  function removeFirstKitten(array) {
+    
+    array = [...kittens];
+    
+    array.splice(0,1);
+    
+    retunr array;
+  }
