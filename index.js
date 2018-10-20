@@ -53,5 +53,8 @@ function destructivelyRemoveFirstKitten(element) {
   
   function removeLastKitten(array) {
     
+    array = kittens.slice(1);
+    
+    return array;
     
   }
