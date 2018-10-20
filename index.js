@@ -34,3 +34,11 @@ function destructivelyRemoveFirstKitten(element) {
   
 }
 
+function appendKitten(array, element) {
+  
+   array = kittens.concat(element);
+   
+   return array
+  
+  
+}
