@@ -42,3 +42,5 @@ function destructivelyRemoveFirstKitten(element) {
    
   }
   
+  function prependKitten()
+  
