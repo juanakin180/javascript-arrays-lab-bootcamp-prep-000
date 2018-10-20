@@ -38,4 +38,3 @@ function destructivelyRemoveFirstKitten(element) {
    
    return kittens;
   
-}
