@@ -45,7 +45,9 @@ function destructivelyRemoveFirstKitten(element) {
   function prependKitten(array) {
     
     
-   return [element, ...array]
+   ['Arnold', ...kittens];
+   
+   return array;
     
   }
   
