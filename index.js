@@ -53,7 +53,7 @@ function destructivelyRemoveFirstKitten(element) {
   
   function removeLastKitten(array) {
     
-    array = [...kittens, 'Garfield']
+    array.slice(3)
     
     return array;
     
