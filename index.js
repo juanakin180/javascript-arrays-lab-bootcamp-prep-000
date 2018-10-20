@@ -51,3 +51,7 @@ function destructivelyRemoveFirstKitten(element) {
     
   }
   
+  function removeLastKitten(array) {
+    
+    
+  }
