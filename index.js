@@ -69,5 +69,5 @@ function destructivelyRemoveFirstKitten(element) {
     
     array.splice(0,1);
     
-    retunr array;
+    return array;
   }
