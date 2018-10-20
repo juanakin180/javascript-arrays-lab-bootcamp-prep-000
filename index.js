@@ -38,7 +38,6 @@ function appendKitten(array, element) {
   
    array = kittens.concat(element);
    
-   return array
-  
+   return array;
   
 }
