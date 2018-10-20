@@ -44,6 +44,6 @@ function destructivelyRemoveFirstKitten(element) {
   
   function prependKitten(array) {
     
-    array = kittens.
+    array = kittens.concat(0, '')
   }
   
