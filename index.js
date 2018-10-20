@@ -25,3 +25,12 @@ function destructivelyRemoveLastKitten(element) {
   return kittens;
   
 }
+
+function destructivelyRemoveFirstKitten(element) {
+  
+  kittens.shift(element);
+  
+  return kittens;
+  
+}
+
